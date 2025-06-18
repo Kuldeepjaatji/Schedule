@@ -1,0 +1,35 @@
+ 2027–2028: Advanced Frontend (Next.js, TypeScript, Animations)
+Weeks 1–4: TypeScript Basics
+Interfaces, types, generics
+
+TS in React (props, hooks)
+
+Error handling, types vs any
+
+Weeks 5–8: Next.js Core
+Pages, routing, static vs server-side rendering
+
+Data fetching: getStaticProps, getServerSideProps
+
+API routes in Next.js
+
+Weeks 9–12: Styling & Design
+Tailwind CSS
+
+Styled Components or CSS Modules
+
+Responsive layouts
+
+Weeks 13–16: Animation
+Framer Motion (page transitions, hover effects)
+
+GSAP basics (if extra interest)
+
+Scroll effects, micro-interactions
+
+Weeks 17–24: Full Project
+Build a complete blog or portfolio
+
+Use Next.js + TypeScript + animation
+
+Deployed on Vercel or Netlif

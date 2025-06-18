@@ -1,0 +1,39 @@
+📅 2026–2027: Full Stack (Node.js, MongoDB, REST API, Postman)
+Weeks 1–4: JavaScript Mastery (Node Foundation)
+Day 1–7: Deep dive into modern JS (ES6+), sync vs async, promises
+
+Day 8–14: require, modules, NPM packages
+
+Day 15–21: Core Node.js (fs, path, events, process)
+
+Day 22–28: Express.js basics (routes, middleware, error handling)
+
+Weeks 5–8: MongoDB & Mongoose
+CRUD operations via shell & Compass
+
+Mongoose schemas & models
+
+Relationships, validations, indexing
+
+Weeks 9–12: REST API Building
+REST architecture
+
+Full CRUD API with Express + MongoDB
+
+Authentication with JWT & bcrypt
+
+Folder structuring, MVC pattern
+
+Weeks 13–16: Testing & Postman
+Manual API testing via Postman
+
+Automating with Postman collections
+
+Intro to Unit testing (Jest or Mocha)
+
+Weeks 17–24: Project Time
+Full-stack project with RESTful API
+
+Examples: Blog app, Task Manager, Expense Tracker
+
+Include auth, roles, and protected routes

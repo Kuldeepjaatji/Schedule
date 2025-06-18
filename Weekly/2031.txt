@@ -1,0 +1,222 @@
+Perfect! Niche 2031 ke liye Cybersecurity ka complete day-by-day learning schedule diya gaya hai — beginner se advanced tak, 1 saal ka structured roadmap.
+
+
+---
+
+📅 Cybersecurity Roadmap 2031 (Day-by-Day Schedule)
+
+🎯 Duration: Jan 1 – Dec 31, 2031
+💡 Structure: 12 Months → 52 Weeks → ~365 Days
+💻 Format: Hands-on + Concepts + Tools + Projects
+
+
+---
+
+✅ January – Fundamentals of Cybersecurity (Day 1–31)
+
+Day 1–7: What is Cybersecurity, CIA Triad, Threat Types
+
+Day 8–14: OSI Model, Network Basics (IP, TCP/UDP)
+
+Day 15–21: Common Attacks (Phishing, DDoS, Brute Force)
+
+Day 22–31: Security Policies, VPNs, Firewalls, IDS/IPS
+📁 Project: Simulate a phishing attack in a safe lab
+
+
+
+---
+
+✅ February – Linux & Command Line for Security (Day 32–60)
+
+Day 32–38: Linux Filesystem, Permissions
+
+Day 39–45: Bash Commands, File Redirection
+
+Day 46–52: User & Group Management
+
+Day 53–60: Secure Shell (SSH), Scripting
+📁 Project: Setup a secure Linux server
+
+
+
+---
+
+✅ March – Networking & Packet Analysis (Day 61–91)
+
+Day 61–70: TCP/IP, Subnetting, DNS, ARP
+
+Day 71–80: Wireshark Basics, Packet Filtering
+
+Day 81–91: Network Attacks + Mitigation
+📁 Project: Capture & analyze traffic with Wireshark
+
+
+
+---
+
+✅ April – Ethical Hacking Basics (Day 92–121)
+
+Day 92–100: Kali Linux, Nmap, Metasploit
+
+Day 101–110: Scanning, Enumeration, Recon
+
+Day 111–121: Vulnerability Assessment
+📁 Project: Simulate attack using Metasploit (test VM)
+
+
+
+---
+
+✅ May – Web Application Security (Day 122–152)
+
+Day 122–130: OWASP Top 10: XSS, SQLi
+
+Day 131–140: CSRF, Insecure Deserialization
+
+Day 141–152: Burp Suite, ZAP usage
+📁 Project: Test vulnerabilities on DVWA or WebGoat
+
+
+
+---
+
+✅ June – Python for Cybersecurity (Day 153–182)
+
+Day 153–160: Python Scripting Basics
+
+Day 161–170: Socket Programming
+
+Day 171–182: Automation Tools (port scanner, keylogger)
+📁 Project: Build a basic port scanner in Python
+
+
+
+---
+
+✅ July – Malware Analysis & Reverse Engineering (Day 183–213)
+
+Day 183–190: Malware Types, Infection Vectors
+
+Day 191–200: Static vs Dynamic Analysis
+
+Day 201–213: Tools: Ghidra, OllyDbg
+📁 Project: Analyze a sample malware in a sandbox
+
+
+
+---
+
+✅ August – Cryptography (Day 214–244)
+
+Day 214–222: Hashing, Symmetric/Asymmetric Crypto
+
+Day 223–233: Digital Signatures, Certificates
+
+Day 234–244: TLS/SSL, HTTPS, PKI
+📁 Project: Encrypt-decrypt text using Python (AES/RSA)
+
+
+
+---
+
+✅ September – Cloud Security (Day 245–274)
+
+Day 245–255: AWS IAM, S3 Security
+
+Day 256–265: Azure & GCP Security Models
+
+Day 266–274: Cloud Threats + Mitigation
+📁 Project: Secure S3 bucket + IAM policy in AWS Free Tier
+
+
+
+---
+
+✅ October – Blue Teaming & Incident Response (Day 275–305)
+
+Day 275–285: SIEM (Splunk, Wazuh), Log Analysis
+
+Day 286–295: Threat Hunting, Indicators of Compromise
+
+Day 296–305: Incident Response Planning
+📁 Project: Detect brute force attack via logs
+
+
+
+---
+
+✅ November – Penetration Testing Project (Day 306–335)
+
+Day 306–315: Engagement Planning + Scoping
+
+Day 316–325: Perform Pen-Test (lab or Hack The Box)
+
+Day 326–335: Write Full Penetration Test Report
+📁 Project: Pen-test walkthrough + documentation
+
+
+
+---
+
+✅ December – Certifications & Career Prep (Day 336–365)
+
+Day 336–345: Study for CompTIA Security+ or CEH
+
+Day 346–355: Practice Tests & Labs
+
+Day 356–360: Build Cybersecurity Resume + Portfolio
+
+Day 361–365: Apply for Internships, Bug Bounty platforms
+📁 Project: Portfolio website with all projects
+
+
+
+---
+
+🧠 Final Outcome
+
+✅ Solid base in Red Team + Blue Team skills
+
+✅ Resume-ready projects + real tools experience
+
+✅ Ready for internships, jobs, or CEH/Security+ certification
+
+✅ Projects to show on GitHub & portfolio site
+
+
+
+---
+
+📲 Alarm/Reminder Set Karne Ka Tarika
+
+1. Use Google Calendar (Recommended)
+
+Daily event add karo with title like: “Day 142 – Learn CSRF”
+
+Set notification: morning 9am or evening 8pm
+
+Optionally, use repeat feature for topics >1 day
+
+
+
+2. To-Do Apps (e.g., TickTick, Google Tasks, Microsoft To Do)
+
+Daily tasks bana lo, check karte raho
+
+Reminder, color tag, and progress milega
+
+
+
+3. Excel/Notion Tracker?
+
+Agar chaho to main tumhare liye pura schedule Excel ya Notion template me bhi bana sakta hoon (daily checkbox + notes).
+
+
+
+
+
+---
+
+Kya tumhe ye roadmap kisi format me chahiye? (Excel, PDF, Notion, Calendar Import)
+Reply karo, main turant bana dunga ✅

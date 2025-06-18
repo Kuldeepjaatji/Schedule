@@ -1,0 +1,35 @@
+2029–2030: AI Integration (ChatGPT API, ML models with React)
+Weeks 1–4: AI API Basics
+Understand OpenAI APIs
+
+Use ChatGPT with fetch/Axios
+
+Build simple chatbot interface in React
+
+Weeks 5–8: Advanced ChatGPT
+Add context, memory simulation
+
+Role-based messages, prompt engineering
+
+Use TypeScript with OpenAI SDK
+
+Weeks 9–12: ML in Web
+Use HuggingFace models (inference API)
+
+Sentiment analysis, image captioning via APIs
+
+Integrate results into frontend
+
+Weeks 13–16: Practical Tools
+AI-powered blog writer
+
+Code helper or AI form validator
+
+Auto image caption tool
+
+Weeks 17–24: Build & Launch AI SaaS
+A complete AI-powered web app
+
+Stripe for payments
+
+Auth + AI usage limits
